@@ -1,7 +1,7 @@
 # DiscordServerStarter
 By TheDutchMC
 
-# What/why?
+What and why?
 I have servers running 24/7, but they aren't used all the time. This means that for a couple of hours per day,
 no one is using the servers and thus they are just wasting power. I don't like that.
 
